@@ -1,0 +1,13 @@
+Obj
+.vscode
+.vs
+bin
+build
+
+# CMake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+output.map
+cmake-build-debug

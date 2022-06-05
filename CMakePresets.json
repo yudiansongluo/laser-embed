@@ -1,0 +1,12 @@
+﻿{
+  "version": 2,
+  "configurePresets": [
+    {
+      "name": "Stm32",
+      "displayName": "Stm32",
+      "description": "Target is a fucking stm32 board",
+      "generator": "MSYS Makefiles",
+      "binaryDir": "${sourceDir}/out/build/${presetName}"
+    }
+  ]
+}
